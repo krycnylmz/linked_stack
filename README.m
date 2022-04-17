@@ -1,14 +1,14 @@
-#LINKED STACK LIBRARY IN C
+# LINKED STACK LIBRARY IN C
 
 ## USAGE
-*First clone this repository in your project
+* First clone this repository in your project
 ```
 git clone https://github.com/krycnylmz/linked_stack.git
 ```
 
-*Second include the lib in your project
+* Second include the lib in your project
 ```
-#include "linked_stack.h"
+# include "linked_stack.h"
 ```
 
 ### Functions
